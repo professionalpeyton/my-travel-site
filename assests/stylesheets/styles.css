@@ -1,0 +1,54 @@
+#welcome{
+    height: 200px;
+    background-color: white;
+    color: black;
+}
+/*.linksOfDestinations {
+    height: 200px;
+    background-color: aqua;
+    color: black;
+}*/
+
+li {
+    display: inline;
+  }
+  
+p{
+    height: 100px;
+    color: black;
+}
+a:hover {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+img {
+    width: 200px;
+    border-style: solid;
+    border: 2px solid black;
+    border-radius: 5px;
+      }
+
+
+h1 {
+    background-color: white;
+  }
+  
+  div {
+    background-color: white;
+  }
+  
+  p {
+    background-color: white;
+  }
+
+  body {
+    background-color: white;
+  }
+
+  
+  
